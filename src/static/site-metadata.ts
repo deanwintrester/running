@@ -16,12 +16,12 @@ const data: ISiteMetadataResult = {
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://github.com/deanwintrester/running',
+      name: '',
+      url: '',
     },
     {
-      name: 'About',
-      url: 'https://github.com/deanwintrester/running',
+      name: '',
+      url: '',
     },
   ],
 };
