@@ -52,8 +52,7 @@ const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
 
 // not support English for now
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
-  '我的梦想是\n
-  进山当野人';
+  '我的梦想是\n进山当野人';
 const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '大海和旷野是我的最爱';
 
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
